@@ -1,10 +1,10 @@
 {
-  "name": "Paradox Alarm Interface (deprecated)",
+  "name": "Paradox Alarm Interface -NEW",
   "version": "2.7.1",
   "slug": "paradox_alarm_interface",
   "description": "Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
-  "url": "https://github.com/ParadoxAlarmInterface/pai",
+  "url": "https://github.com/christianfdev/pai",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
